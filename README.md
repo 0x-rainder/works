@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/0x-rainder/works.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
@@ -40,4 +40,3 @@ I will like to advance on my css, and in no time move to javascript.
 - Frontend Mentor - [@0x-rainder](https://www.frontendmentor.io/profile/0x-rainder)
 - Twitter - [@_rainder](https://www.twitter.com/_rainder)
 *
-
